@@ -48,6 +48,7 @@
     gnome.nautilus
     zathura
     tmux
+    solaar
 
     # ssh and gpg manager
     gnome.seahorse
